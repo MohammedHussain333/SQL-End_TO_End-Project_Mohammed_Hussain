@@ -81,7 +81,7 @@ This is an educational project. Contributions & improvements are welcome!
 ---
 
 ## 🧑‍💻 Author
-**Your Name**  
+**Your Name**  Mohammed Hussain
 BCA Student | Data Analyst Aspirant  
 Skills: SQL · Python · Excel · Data Visualization
 
